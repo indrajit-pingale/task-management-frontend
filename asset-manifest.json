@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://indrajit-pingale.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://indrajit-pingale.github.io/task-management-frontend/static/js/main.fcfb6047.chunk.js",
+    "main.js.map": "https://indrajit-pingale.github.io/task-management-frontend/static/js/main.fcfb6047.chunk.js.map",
+    "runtime~main.js": "https://indrajit-pingale.github.io/task-management-frontend/static/js/runtime~main.036ead54.js",
+    "runtime~main.js.map": "https://indrajit-pingale.github.io/task-management-frontend/static/js/runtime~main.036ead54.js.map",
+    "static/js/2.8079b2e4.chunk.js": "https://indrajit-pingale.github.io/task-management-frontend/static/js/2.8079b2e4.chunk.js",
+    "static/js/2.8079b2e4.chunk.js.map": "https://indrajit-pingale.github.io/task-management-frontend/static/js/2.8079b2e4.chunk.js.map",
+    "index.html": "https://indrajit-pingale.github.io/task-management-frontend/index.html",
+    "precache-manifest.4b6a5cb458ac8d3557e46184523923d5.js": "https://indrajit-pingale.github.io/task-management-frontend/precache-manifest.4b6a5cb458ac8d3557e46184523923d5.js",
+    "service-worker.js": "https://indrajit-pingale.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://indrajit-pingale.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
